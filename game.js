@@ -1,4 +1,4 @@
-// Canvas Asteroids
+// Canvas Asteroids modified by Bejoy
 //
 // Copyright (c) 2010 Doug McInnes
 //
